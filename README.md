@@ -8,8 +8,8 @@ This is a solution to the Product Preview Card challenge from Frontend Mentor.
 
 ## 🔗 Live Demo
 
-👉 Live Site URL: https://your-live-link-here.com  
-👉 GitHub Repository: https://github.com/yourusername/product-preview-card
+👉 Live Site URL: 
+👉 GitHub Repository:
 
 ## 🛠️ Built With
 
@@ -35,4 +35,4 @@ The layout works on:
 
 ## 👨‍💻 Author
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Jamila8
