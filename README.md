@@ -5,7 +5,7 @@ This is a solution to the Product Preview Card challenge from Frontend Mentor.
 ## 🔗 Live Demo
 
 👉 Live Site URL: https://github.com/Jamila8/product-preview-card/tree/main
-👉 GitHub Repository:
+👉 GitHub Repository: https://jamila8.github.io/product-preview-card/
 
 ## 🛠️ Built With
 
